@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e07baea5-ccbf-4f91-b08a-0fede159893e": {
+      "ProjectGuid": "e07baea5-ccbf-4f91-b08a-0fede159893e",
+      "DisplayName": "WebAPI",
+      "ColorIndex": 0
+    },
+    "e025462e-2873-44e7-8b93-759424e44838": {
+      "ProjectGuid": "e025462e-2873-44e7-8b93-759424e44838",
+      "DisplayName": "WebAPI.Service",
+      "ColorIndex": 1
+    },
+    "6fa9d4eb-02d9-4eb4-a7ec-36dad7f46728": {
+      "ProjectGuid": "6fa9d4eb-02d9-4eb4-a7ec-36dad7f46728",
+      "DisplayName": "WebAPI.Repository",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

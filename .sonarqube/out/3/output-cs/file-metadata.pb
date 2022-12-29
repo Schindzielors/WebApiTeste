@@ -1,0 +1,9 @@
+N
+EC:\Projects\WebAPI-master\WebAPI\BaseController\BaseCrudController.csutf-8J
+AC:\Projects\WebAPI-master\WebAPI\Controllers\ClienteController.csutf-8I
+@C:\Projects\WebAPI-master\WebAPI\Controllers\ValuesController.csutf-84
++C:\Projects\WebAPI-master\WebAPI\Program.csutf-84
++C:\Projects\WebAPI-master\WebAPI\Startup.csutf-8r
+gC:\Projects\WebAPI-master\WebAPI\obj\Debug\netcoreapp2.2\.NETCoreApp,Version=v2.2.AssemblyAttributes.csutf-8Z
+OC:\Projects\WebAPI-master\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.csutf-8_
+TC:\Projects\WebAPI-master\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.csutf-8

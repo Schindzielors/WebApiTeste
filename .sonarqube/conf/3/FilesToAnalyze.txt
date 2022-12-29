@@ -1,0 +1,11 @@
+﻿C:\Projects\WebAPI-master\WebAPI\BaseController\BaseCrudController.cs
+C:\Projects\WebAPI-master\WebAPI\Controllers\ClienteController.cs
+C:\Projects\WebAPI-master\WebAPI\Controllers\ValuesController.cs
+C:\Projects\WebAPI-master\WebAPI\Program.cs
+C:\Projects\WebAPI-master\WebAPI\Startup.cs
+C:\Projects\WebAPI-master\WebAPI\obj\Debug\netcoreapp2.2\.NETCoreApp,Version=v2.2.AssemblyAttributes.cs
+C:\Projects\WebAPI-master\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+C:\Projects\WebAPI-master\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+C:\Projects\WebAPI-master\WebAPI\appsettings.Development.json
+C:\Projects\WebAPI-master\WebAPI\appsettings.json
+C:\Projects\WebAPI-master\WebAPI\Properties\launchSettings.json
